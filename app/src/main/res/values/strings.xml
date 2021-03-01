@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Evaluation</string>
+    <string name="inicio_title">Usuários</string>
+    <string name="albuns_title">Albuns de %s</string>
+    <string name="postagens_title">Postagens de %s</string>
+    <string name="comentarios_title">Comentários de %s</string>
+    <string name="fotos_title">Fotos de %s</string>
+    <string name="foto_detale_title">Foto Detalhe</string>
+
+    <string name="numero_comentarios">Número de comentários:</string>
+
+    <string name="error">Algo errado aconteceu. Tente novamente mais tarde.</string>
+    <string name="error_401">Não autorizado</string>
+    <string name="error_400_generic">Erro não tratado</string>
+    <string name="error_500_generic">Erro catastrófico</string>
+</resources>
